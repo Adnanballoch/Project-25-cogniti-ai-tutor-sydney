@@ -1,7 +1,7 @@
-# Project 25: Cogniti AI Tutor — Institutional-Grade Learning Assistant
+# Project 25: Cogniti AI Tutor: Institutional-Grade Learning Assistant
 
 **Category:** EdTech
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,9 @@ Azure OpenAI, Custom RAG, University Azure Infrastructure
 
 ## Demo
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/25.mp4
+[![Cogniti AI Tutor: Institutional-Grade Learning Assistant](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant.jpg)](https://automatrixlab.com/projects/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant/)
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +25,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
