@@ -1,19 +1,19 @@
-# Project 25: Cogniti AI Tutor: Institutional-Grade Learning Assistant
+# Project 25: Cogniti AI Tutor
 
 **Category:** EdTech
 **Part of:** AutoMatrixLab
 
 ## Overview
 
-An institutional-grade, course-specific AI learning assistant developed in collaboration with the University of Sydney and adapted for Massey University.
+I built a course-specific AI tutor on Cogniti, the University of Sydney's AI agent platform, during its initial rollout. I joined through Massey University, one of several universities involved. The tutor is grounded on verified subject materials and runs inside the university's secure Azure environment. I presented the result at Massey University.
 
 ## Tech Stack
 
-Azure OpenAI, Custom RAG, University Azure Infrastructure
+Cogniti (the University of Sydney's AI agent platform), Azure OpenAI, the university's Azure environment
 
 ## Demo
 
-[![Cogniti AI Tutor: Institutional-Grade Learning Assistant](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant.jpg)](https://automatrixlab.com/projects/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant/)
+[![Cogniti AI Tutor](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant.jpg)](https://automatrixlab.com/projects/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant/)
 
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-25-cogniti-ai-tutor-institutional-grade-learning-assistant/
 
